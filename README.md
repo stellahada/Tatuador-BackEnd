@@ -5,11 +5,11 @@ Este é o repositório do back-end para o site de um tatuador, desenvolvido para
 ![Dribbble](https://github.com/user-attachments/assets/20b2cac2-a2b0-4a64-b9ec-30bc7d2f6816)
 
 ## 🎨 Tecnologias Utilizadas
-HTML: Estrutura básica do site.
+Node.js: Ambiente de execução para JavaScript no servidor.
 
-SCSS: Estilização e layout responsivo.
+Express.js: Framework para construção de APIs.
 
-JavaScript: Interatividade e funcionalidades dinâmicas.
+MySQL: Banco de dados relacional para armazenar informações.
 
 ## 🖥️ Funcionalidades
 Exibição de portfólio: Galeria com os trabalhos do tatuador.
